@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(234, 226, 224);
+}
+
+h1{
+    background-color: rgb(40, 107, 190);
+    font-family: sans-serif;
+    color: aliceblue;
+    text-align: center;
+}
+h2{
+    background-color: rgb(137, 137, 203);
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h3{
+    background-color: rgb(86, 86, 243);
+    color: aliceblue;
+    text-align: center;}
+
+a{
+    color: rgb(165, 56, 42);
+}
+
+ul{
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;}
+
